@@ -1,3 +1,4 @@
+/*The following code handles the styling of the headings*/
 h1{
 	color: blue;
 	background-color: yellow;
@@ -28,6 +29,7 @@ p{
 body{
 	background-color: pink;
 }
+/*The following rules modifes the appearance of the background colour based on the viewing window (viewport?)*/
 @media (min-width: 50em){
 	body{
 		background-color: blue;
